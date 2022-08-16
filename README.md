@@ -1,2 +1,2 @@
 # Replit-Tutorials
-Following replies tutorials and modifications.
+Following replit tutorials and modifications.
